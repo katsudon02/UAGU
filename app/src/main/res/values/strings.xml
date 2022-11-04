@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Cat Feeder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="blank">
+        <item> </item>
+    </string-array>
+    <string-array name="animals">
+        <item>Cão</item>
+        <item>Gato</item>
+    </string-array>
+
+    <string-array name="dbreeds">
+        <item>Shiba Inu</item>
+        <item>Golden Retriever</item>
+        <item>Rottweiler</item>
+    </string-array>
+    <string-array name="shibaw">
+        <item>4.9 kg</item>
+        <item>5.2 kg</item>
+        <item>5.5 kg</item>
+        <item>6.2 kg</item>
+        <item>6.2 kg</item>
+        <item>7.0 kg</item>
+        <item>7.6 kg</item>
+        <item>8.1 kg</item>
+        <item>8.4 kg</item>
+        <item>8.7 kg</item>
+        <item>8.8 kg</item>
+        <item>8.9 kg</item>
+        <item>9.0 kg</item>
+    </string-array>
+    <string-array name="goldenw">
+        <item>12.1 kg</item>
+        <item>15.8 kg</item>
+        <item>17.5 kg</item>
+        <item>18.2 kg</item>
+        <item>18.2 kg</item>
+        <item>20.9 kg</item>
+        <item>23.1 kg</item>
+        <item>24.8 kg</item>
+        <item>26.2 kg</item>
+        <item>27.2 kg</item>
+        <item>28.0 kg</item>
+        <item>28.6 kg</item>
+        <item>29.7 kg</item>
+    </string-array>
+    <string-array name="rottw">
+        <item>16.1 kg</item>
+        <item>21.2 kg</item>
+        <item>22.4 kg</item>
+        <item>23.6 kg</item>
+        <item>25.8 kg</item>
+        <item>29.8 kg</item>
+        <item>33.2 kg</item>
+        <item>36.2 kg</item>
+        <item>38.7 kg</item>
+        <item>40.7 kg</item>
+        <item>42.4 kg</item>
+        <item>44.7 kg</item>
+        <item>47.9 kg</item>
+    </string-array>
+    <string-array name="shibap">
+        <item>1.8 xícara</item>
+        <item>1.9 xícara</item>
+        <item>1.3 xícara</item>
+        <item>1.4 xícara</item>
+        <item>1.4 xícara</item>
+        <item>1.6 xícara</item>
+        <item>1.7 xícara</item>
+        <item>1.7 xícara</item>
+        <item>1.8 xícara</item>
+        <item>1.8 xícara</item>
+        <item>1.8 xícara</item>
+        <item>1.9 xícara</item>
+        <item>1.5 xícara</item>
+    </string-array>
+    <string-array name="goldenp">
+        <item>3.5 xícaras</item>
+        <item>2.9 xícaras</item>
+        <item>3.1 xícaras</item>
+        <item>3.2 xícaras</item>
+        <item>3.2 xícaras</item>
+        <item>3.5 xícaras</item>
+        <item>3.8 xícaras</item>
+        <item>4.0 xícaras</item>
+        <item>4.2 xícaras</item>
+        <item>4.3 xícaras</item>
+        <item>4.4 xícaras</item>
+        <item>4.4 xícaras</item>
+        <item>3.7 xícaras</item>
+        <item>3.7 xícaras</item>
+        <item>3.7 xícaras</item>
+    </string-array>
+    <string-array name="rottp">
+        <item>4.3 xícaras</item>
+        <item>5.3 xícaras</item>
+        <item>3.7 xícaras</item>
+        <item>3.9 xícaras</item>
+        <item>4.1 xícaras</item>
+        <item>4.6 xícaras</item>
+        <item>5.0 xícaras</item>
+        <item>5.3 xícaras</item>
+        <item>5.6 xícaras</item>
+        <item>5.8 xícaras</item>
+        <item>6.0 xícaras</item>
+        <item>6.1 xícaras</item>
+        <item>6.2 xícaras</item>
+        <item>5.2 xícaras</item>
+        <item>5.2 xícaras</item>
+    </string-array>
+
+    <string-array name="cbreeds">
+        <item>Ragdoll</item>
+        <item>Maine Coon</item>
+        <item>Exotic</item>
+    </string-array>
+
+    <string-array name="ages">
+        <item>15 Semanas</item>
+        <item>16 Semanas</item>
+        <item>17 Semanas</item>
+        <item>20 Semanas</item>
+        <item>5 Meses</item>
+        <item>6 Meses</item>
+        <item>7 Meses</item>
+        <item>8 Meses</item>
+        <item>9 Meses</item>
+        <item>10 Meses</item>
+        <item>11 Meses</item>
+        <item>1 Ano</item>
+        <item>+2 Anos</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="water_status">
+        <item>Insuficiente</item>
+        <item>Suficiente</item>
+    </string-array>
+
+</resources>

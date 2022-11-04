@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734587542767",
+    "firebase_url": "https://cat-feeder-92e64-default-rtdb.firebaseio.com",
+    "project_id": "cat-feeder-92e64",
+    "storage_bucket": "cat-feeder-92e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734587542767:android:0ba516e80eb203410d0f1a",
+        "android_client_info": {
+          "package_name": "com.example.petfeederthird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734587542767-70f2583bq78lq1puul8e5ga2rbdhg06f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petfeederthird",
+            "certificate_hash": "873f848335e0a11e98271a63c8ef0bb3793ef080"
+          }
+        },
+        {
+          "client_id": "734587542767-e8ithk8ahn7k678cu3rb6s5kagjnknc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lJDkchIc4NzFvsyZ7CIyVWVE0BuIC8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734587542767-e8ithk8ahn7k678cu3rb6s5kagjnknc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
